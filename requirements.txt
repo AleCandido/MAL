@@ -1,0 +1,6 @@
+# install with `pip install -r`
+numpy
+pandas
+xmltodict
+qgrid
+rich
